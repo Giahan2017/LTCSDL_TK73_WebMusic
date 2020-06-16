@@ -1,0 +1,15 @@
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.DAL\bin\Debug\netcoreapp3.1\Music.DAL.deps.json
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.DAL\bin\Debug\netcoreapp3.1\Music.DAL.dll
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.DAL\bin\Debug\netcoreapp3.1\Music.DAL.pdb
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.DAL\obj\Debug\netcoreapp3.1\Music.DAL.csprojAssemblyReference.cache
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.DAL\obj\Debug\netcoreapp3.1\Music.DAL.AssemblyInfoInputs.cache
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.DAL\obj\Debug\netcoreapp3.1\Music.DAL.AssemblyInfo.cs
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.DAL\obj\Debug\netcoreapp3.1\Music.DAL.dll
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.DAL\obj\Debug\netcoreapp3.1\Music.DAL.pdb
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.DAL\bin\Debug\netcoreapp3.1\Music.DAL.runtimeconfig.json
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.DAL\bin\Debug\netcoreapp3.1\Music.DAL.runtimeconfig.dev.json
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.DAL\obj\Debug\netcoreapp3.1\Music.DAL.csproj.CoreCompileInputs.cache
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.DAL\obj\Debug\netcoreapp3.1\Music.DAL.genruntimeconfig.cache
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.DAL\bin\Debug\netcoreapp3.1\Music.Common.dll
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.DAL\bin\Debug\netcoreapp3.1\Music.Common.pdb
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.DAL\obj\Debug\netcoreapp3.1\Music.DAL.csproj.CopyComplete

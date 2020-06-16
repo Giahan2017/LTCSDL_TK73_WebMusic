@@ -1,0 +1,9 @@
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.Common\bin\Debug\netcoreapp3.1\Music.Common.deps.json
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.Common\bin\Debug\netcoreapp3.1\Music.Common.dll
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.Common\bin\Debug\netcoreapp3.1\Music.Common.pdb
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.Common\obj\Debug\netcoreapp3.1\Music.Common.AssemblyInfoInputs.cache
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.Common\obj\Debug\netcoreapp3.1\Music.Common.AssemblyInfo.cs
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.Common\obj\Debug\netcoreapp3.1\Music.Common.dll
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.Common\obj\Debug\netcoreapp3.1\Music.Common.pdb
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.Common\obj\Debug\netcoreapp3.1\Music.Common.csproj.CoreCompileInputs.cache
+D:\BaiTapNhomLTCSDL\MUSIC\Music\Music.Common\obj\Debug\netcoreapp3.1\Music.Common.csprojAssemblyReference.cache
